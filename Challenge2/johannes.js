@@ -6,5 +6,5 @@ export const roleB = "Intern";
 
 
 
-const display= firstname + surname + " (" + roleB + ")"
+const display= firstname+" "+" " + surname + " (" + roleB + ")"
 document.querySelector('#johannes').innerText = display
